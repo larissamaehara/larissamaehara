@@ -1,6 +1,6 @@
 ## Olá! Bem-vindo! 👋
 
-Sou a _[Larissa Maehara](https://www.linkedin.com/in/larissamaehara/)_, mas pode me chamar de Lari. sou formada em Engenharia Química pela UFSCar, com mestrado feito em parceria UFScar-EMBRAPA na área de biocombustíves. Estou atualmente em transição de carreira. Encontro-me, no momento, em um relacionamento sério com o desenvolvimento de software, tentando aprender um pouco mais a cada dia. 🤔 Porque eu resolvi mudar de área? Diria que foi um ✨encontro de almas✨ com a programação 🖥️.
+Sou a _[Larissa Maehara](https://www.linkedin.com/in/larissamaehara/)_, mas pode me chamar de Lari. sou formada em Engenharia Química pela UFSCar, com mestrado feito em parceria UFScar-EMBRAPA na área de biocombustíves. Estou atualmente em transição de carreira. Encontro-me, no momento, em um relacionamento sério com o desenvolvimento web, tentando aprender um pouco mais a cada dia. 🤔 Porque eu resolvi mudar de área? Diria que foi um ✨encontro de almas✨ com a programação 🖥️.
 
 ## Algumas curiosidades sobre mim 😉:
 ##### 1️⃣ Eu amo esportes em geral, mas o futebol ⚽ ocupa um lugar especial no meu 💚, aliás, sou palmeirense! 😜
